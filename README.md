@@ -1,14 +1,14 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Omer Cagri Sayir</h1>
-<h3 align="center">A passionate fullstack web and mobile developer located in Canada 🇨🇦</h3>
+<h3 align="center">A passionate fullstack web and iOS Developer located in Canada 🇨🇦</h3>
 <h3 align="center">Also, I am an AWS Certified Solutions Architect - Associate !!! <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/6213ac423fcd43039118b7097173c741" target="_blank">Click here to see!</a> </h3>
 
 - 👨‍💻 All of my projects are available at [PORTFOLIO](https://omer.lol)
 
 - 📫 How to reach me **omercagris@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://omercsx.s3.ca-central-1.amazonaws.com/resumes/omer_resume_web.pdf)
+- 📄 Know about my experiences [RESUME](https://omercsx.s3.ca-central-1.amazonaws.com/resumes/omer_ios_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
